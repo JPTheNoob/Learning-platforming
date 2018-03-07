@@ -1,2 +1,2 @@
-# Learning-platforming
-For educational purposes
+# JSPlatformer
+JS Platformer for DIG 3480C
